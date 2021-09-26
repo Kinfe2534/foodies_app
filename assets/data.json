@@ -5,7 +5,7 @@
          "placeItems":["Burgers", "Chinese","Fast Food","Italian"],
          "minOrder":20
          },
-         {"placeImage":"images/flipping.jgp",
+         {"placeImage":"images/flipping.jpg",
             "placeName":"Flipping Noodles",
              "placeItems":["Burgers", "Chinese","Fast Food","Italian"],
              "minOrder":50
@@ -19,5 +19,25 @@
                     "placeName":"Blue Hill",
                      "placeItems":["Burgers", "Chinese","Fast Food","Italian"],
                      "minOrder":40
-                     }
-        ]
+                     },{
+                        "placeImage":"images/hawkers.jpg",
+                        "placeName":"The Hawkers",
+                             "placeItems":["Burgers", "Chinese","Fast Food","Italian"],
+                             "minOrder":20
+                             },
+                             {"placeImage":"images/flipping.jpg",
+                                "placeName":"Flipping Noodles",
+                                 "placeItems":["Burgers", "Chinese","Fast Food","Italian"],
+                                 "minOrder":50
+                                 },
+                                 {"placeImage":"images/pizzahut.jpg",
+                                    "placeName":"Pizza Hut",
+                                     "placeItems":["Burgers", "Chinese","Fast Food","Italian"],
+                                     "minOrder":20
+                                     },
+                                     {"placeImage":"images/bluehill.jpg",
+                                        "placeName":"Blue Hill",
+                                         "placeItems":["Burgers", "Chinese","Fast Food","Italian"],
+                                         "minOrder":40
+                                         }
+                                       ]
